@@ -27,3 +27,6 @@ Before you begin, make sure you have the following installed:
 
 You may also need a GitHub account and permissions to configure GitHub Actions if you're automating the deployment process.
 
+## Live Application
+- You can access the live loan prediction application here: https://loan-prediction-application.onrender.com/
+
